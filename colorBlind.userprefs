@@ -1,13 +1,17 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\QuitGameScript.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\cygwin64\home\negupta\Poker\dev\client-unified\zynga-casino\Assets\Casino\Scripts\WPCompat\NetworkStream.cs">
     <Files>
-      <File FileName="colorBlind.sln" Line="1" Column="1" />
-      <File FileName="Assets\QuitGameScript.cs" Line="20" Column="1" />
-      <File FileName="Assets\jumptoplayscreen.cs" Line="16" Column="2" />
-      <File FileName="Assets\LiveTile.cs" Line="1" Column="1" />
-      <File FileName="Assets\movescreen.js" Line="1" Column="1" />
-      <File FileName="Assets\Backbuttonscript.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\cygwin64\home\negupta\Poker\dev\client-unified\zynga-casino\Assets\External\ZyngaEconomy\RemoteService\ZSRRequest.cs" Line="11" Column="1" />
+      <File FileName="..\..\..\..\cygwin64\home\negupta\Poker\dev\client-unified\zynga-casino\Assets\External\ZyngaEconomy\Network\TcpClientRequest.cs" Line="5" Column="17" />
+      <File FileName="..\..\..\..\cygwin64\home\negupta\Poker\dev\client-unified\zynga-casino\Assets\External\ZyngaEconomy\Network\HttpClientRequest.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\..\cygwin64\home\negupta\Poker\dev\client-unified\zynga-casino\Assets\External\ZyngaEconomy\Network\ZyngaHttpWebRequest.cs" Line="18" Column="14" />
+      <File FileName="..\..\..\..\cygwin64\home\negupta\Poker\dev\client-unified\zynga-casino\Assets\Plugins\MATDelegateScript.cs" Line="42" Column="22" />
+      <File FileName="..\..\..\..\cygwin64\home\negupta\Poker\dev\client-unified\zynga-casino\Assets\External\ZDKUnityAlpha\UniWeb\Plugins\Request.cs" Line="10" Column="17" />
+      <File FileName="..\..\..\..\cygwin64\home\negupta\Poker\dev\client-unified\zynga-casino\Assets\Casino\Scripts\FeatureFramework\Feature.cs" Line="3" Column="7" />
+      <File FileName="..\..\..\..\cygwin64\home\negupta\Poker\dev\client-unified\zynga-casino\Assets\Casino\Scripts\Smartfox\SmartfoxSession.cs" Line="4" Column="3" />
+      <File FileName="..\..\..\..\cygwin64\home\negupta\Poker\dev\client-unified\zynga-casino\Assets\Casino\Scripts\Utility\CasinoUtility.cs" Line="10" Column="3" />
+      <File FileName="..\..\..\..\cygwin64\home\negupta\Poker\dev\client-unified\zynga-casino\Assets\Casino\Scripts\WPCompat\NetworkStream.cs" Line="12" Column="20" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

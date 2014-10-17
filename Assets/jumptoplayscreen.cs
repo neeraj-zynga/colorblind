@@ -14,9 +14,9 @@ public class jumptoplayscreen : MonoBehaviour {
 	}
 
 	void OnMouseDown(){
-		Debug.Log ("object lciked");
-		Debug.Log (Application.loadedLevel);
+
 		Application.LoadLevel ("scene1");
+
 	}
 }
 

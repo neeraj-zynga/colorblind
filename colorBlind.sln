@@ -1,6 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
+Project("{47917F9E-47EA-A077-E041-FE31287787B5}") = "colorBlind", "Assembly-CSharp-firstpass.csproj", "{0D0F47AC-B963-0280-86A3-8B6AA91DBAD9}"
+EndProject
 Project("{47917F9E-47EA-A077-E041-FE31287787B5}") = "colorBlind", "Assembly-CSharp.csproj", "{31BA68C9-3D6E-97F1-359C-7EA29A5FEBE8}"
 EndProject
 Project("{47917F9E-47EA-A077-E041-FE31287787B5}") = "colorBlind", "Assembly-UnityScript.unityproj", "{4B19CB2D-E897-35C1-27EA-56B1CCBF7E7B}"
@@ -11,6 +13,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D0F47AC-B963-0280-86A3-8B6AA91DBAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0F47AC-B963-0280-86A3-8B6AA91DBAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0F47AC-B963-0280-86A3-8B6AA91DBAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0F47AC-B963-0280-86A3-8B6AA91DBAD9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{31BA68C9-3D6E-97F1-359C-7EA29A5FEBE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{31BA68C9-3D6E-97F1-359C-7EA29A5FEBE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31BA68C9-3D6E-97F1-359C-7EA29A5FEBE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -23,7 +29,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																																													GlobalSection(MonoDevelopProperties) = preSolution
+																																																																																																																																		GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
